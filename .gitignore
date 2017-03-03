@@ -1,0 +1,12 @@
+src
+
+*.pyc
+*.sublime-workspace
+*.html
+*.csv
+
+.idea
+.iml
+.Trashes
+.DS_Store
+.Spotlight-V100
